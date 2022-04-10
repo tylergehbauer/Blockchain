@@ -1,5 +1,5 @@
-## Blockchain
-# PyChain Ledger
+# Blockchain
+## PyChain Ledger
 
 ---
 # My streamlit application:
