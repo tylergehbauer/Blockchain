@@ -8,7 +8,7 @@ You are able create as many blocks as you would like, and can validate the block
 The left hand side of this application allows you to inspect each block and allows you to view and verify the contents and hashes of the blocks you created.
 
 
-To run this application use the terminal and you need to navigate where this python file (Pychain.py) is stored on your computer. Then run 'streamlit run Pychain.py' on your terminal, and you would be able to see the following images (these will vary depending on the information you input on application): 
+To run this application use the terminal and you need to navigate where this python file (pychain.py) is stored on your computer. Then run 'streamlit run pychain.py' on your terminal, and you would be able to see the following images (these will vary depending on the information you input on application): 
 
 ![image1](Screenshots/screenshot3.png)
 
